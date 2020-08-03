@@ -1,0 +1,91 @@
+#title{
+  padding: 3% 2%;
+  background-color: #8BD9EF;
+}
+.bar{
+  background-color: #8BD9EF;
+  padding: 0 3%;
+}
+.nav-item{
+  font-size: 1.5rem;
+}
+p{
+  color : #3f5f6a;
+}
+.big-heading-1{
+  margin-bottom: 0;
+}
+.big-heading-2{
+  margin-top: 0;
+}
+.title-image{
+  border: 5px solid black;
+  width : 400px;
+}
+.title-text{
+  margin-top: 10%;
+}
+body{
+  margin: 0 0;
+  text-align: center;
+}
+h1{
+  font-family: 'Dancing Script',serif;
+  font-size: 4rem;
+  color : #25737f;
+}
+/*about section*/
+#about{
+  padding: 10% 15%;
+  background-color: white;
+  text-align: center;
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+  color: #25737f;
+  font-size: 3rem;
+  line-height: 2;
+}
+.priya{
+  margin-left: 30%;
+  border: 5px solid black;
+  width : 300px;
+}
+.about-text{
+  margin-right: 20%;
+  font-family: 'Montserrat',sans-serif;
+  line-height: 3;
+}
+/*preference section*/
+#Preference{
+  background-color: #8BD9EF;
+  padding: 7% 15%;
+  text-align: left;
+}
+.pref-text{
+  color : #25737f;
+  font-family: 'Montserrat',serif;
+  line-height: 2;
+
+}
+/*reviews*/
+#reviews{
+  padding: 10% 15%;
+}
+
+
+#contact{
+  padding: 5% 15%;
+  background-color: #8BD9EF;
+}
+.text{
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.icon{
+  padding: 2% 3%;
+  font-size: 2rem;
+}
+.foot{
+  padding: 5% 15%;
+}
